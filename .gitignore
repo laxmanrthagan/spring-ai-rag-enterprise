@@ -1,0 +1,7 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.crawler
+.idea/
+*.iml
+.vscode/
+.DS_Store

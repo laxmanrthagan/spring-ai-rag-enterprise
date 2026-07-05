@@ -1,0 +1,25 @@
+### Create Collection
+PUT http://localhost:6333/collections/enterprise-docs
+Content-Type: application/json
+
+{
+  "vectors": {
+    "size": 768,
+    "distance": "Cosine"
+  }
+}
+
+###
+
+### List Collections
+GET http://localhost:6333/collections
+
+###
+
+### Get Collection
+GET http://localhost:6333/collections/enterprise-docs
+
+###
+
+### Delete Collection
+DELETE http://localhost:6333/collections/enterprise-docs
