@@ -9,6 +9,15 @@ Prometheus for matrics: http://localhost:9090/
 Loki for logs: http://localhost:3100/ready
 Tempo for traces: http://localhost:3200/ready
 
+# Docker Services Repo
+
+https://github.com/laxmanrthagan/ragagentic-docker-services
+
+# Insomnia Scripts
+
+https://github.com/laxmanrthagan/ragagentic-insomnia
+
+
 # 🚀 Enterprise RAG Platform
 
 > **A production-oriented Enterprise Retrieval-Augmented Generation (RAG) platform built with Java, Spring Boot, Spring AI, local LLMs, Vector Search, Graph RAG, Security, Governance, Observability, and Cloud-Native technologies.**
